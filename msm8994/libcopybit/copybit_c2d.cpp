@@ -33,7 +33,7 @@
 
 #include <linux/msm_kgsl.h>
 
-#include <EGL/eglplatform.h>
+#include "EGL/eglplatform.h"
 #include <cutils/native_handle.h>
 
 #include <copybit.h>
